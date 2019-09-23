@@ -1,0 +1,2 @@
+
+{"accounts":[{"id":"5c47f023-ea0c-46fd-b7c7-754e94f8a61b","first":"Benjamin","last":"Bakle"},{"id":"b65d2c33-4d04-439e-848c-202c44fb5cb6","first":"Benjamin","last":"Bakle"},{"id":"29c6dd7f-a15e-4395-9394-ea399ed16fdf","first":"Benjamin","last":"Bakle"}],"transactions":[{"id":"eb23949e-438c-48b6-b881-add1ecc3734e","description":"Benjamin","amount":99.99,"cleared":true},{"id":"9a184bf2-292a-4079-9d34-564e027dbbe7","description":"Farm Bureau Insurance","amount":199.99,"cleared":true}]}
